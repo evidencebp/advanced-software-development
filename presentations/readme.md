@@ -3,3 +3,4 @@
 3. [Writing Requirments](Writing_Requirments.pdf)
 4. [Feedback](Feedback.pdf)
 5. [Composition](Composition.pdf)
+6. [Reuse](Reuse.pdf)
