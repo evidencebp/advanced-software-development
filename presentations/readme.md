@@ -5,7 +5,7 @@
 5. [Composition](Composition.pdf)
 6. [Reuse](Reuse.pdf)
 7. [Code review](Code_Review.pdf)
-8. Debug
+8. [Debug](Debug.pdf)
 9. Refactoring
 10. Testing
 11. Management
