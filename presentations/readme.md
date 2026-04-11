@@ -8,6 +8,6 @@
 8. [Debug](Debug.pdf)
 9. [Refactoring](Refactoring.pdf)
 10. [Testing](Testing.pdf)
-11. Management
+11. [Management](Management.pdf)
 12. Improvement in practice
 
