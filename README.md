@@ -6,7 +6,7 @@ Each aspect is discussed and its importance is explained.
 The students train directly on the aspect to evaluate their abilities.Later, improvement methods are given and impact is evaluated by comparing to previous results.
 
 ## Content
-See the presentations.
+See the [presentations](presentations).
 
 ## Requirements
 The course is intended for 3-year/graduate students.Familiarity with coding is a must.
