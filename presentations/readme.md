@@ -9,5 +9,5 @@
 9. [Refactoring](Refactoring.pdf)
 10. [Testing](Testing.pdf)
 11. [Management](Management.pdf)
-12. Improvement in practice
+12. [Improvement in practice](Improvement_in_practice.pdf)
 
